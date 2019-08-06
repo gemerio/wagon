@@ -5,7 +5,7 @@
 package validate
 
 import (
-	"github.com/go-interpreter/wagon/wasm"
+	"github.com/gemerio/wagon/wasm"
 )
 
 type operand struct {

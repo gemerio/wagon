@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/go-interpreter/wagon/wasm"
+	"github.com/gemerio/wagon/wasm"
 )
 
 var testPaths = []string{
